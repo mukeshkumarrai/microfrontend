@@ -1,0 +1,14 @@
+{
+  "name": "xr",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular-architects/native-federation": "^1.0.0",
+    "@angular/core": "^15.0.0",
+    "@angular/common": "^15.0.0",
+    "@angular/compiler": "^15.0.0",
+    "@angular/platform-browser": "^15.0.0",
+    "@angular/platform-browser-dynamic": "^15.0.0",
+    "rxjs": "^7.0.0",
+    "zone.js": "^0.12.0"
+  }
+}

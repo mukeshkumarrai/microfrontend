@@ -1,0 +1,5 @@
+{
+	"remote": "http://localhost:4201/remoteEntry.json",
+	"XR": "http://localhost:4203/remoteEntry.json"
+
+}
